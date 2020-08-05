@@ -1,0 +1,22 @@
+element.style {
+    display: inline-block;
+    width: 100%;
+    float: right;
+    top: 0;
+    position: absolute;
+    top: 110px;
+    margin-left: 34px;
+    font-size: 30px;
+    font-weight: 500;
+}
+
+element.style {
+    width: auto;
+    /* grid-auto-columns: 65px; */
+    border-radius: 80px;
+    width: 200px;
+    display: flex;
+    justify-self: normal;
+    border-radius: 50%;
+    margin: 33px 1px 20px 60px;
+}
