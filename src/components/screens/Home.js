@@ -84,7 +84,7 @@ const Home=()=>{
 			<div  className="card home-card">
 				<h5>Yogify Your Life</h5>
 				<div className="card-image"></div>
-					<img src="https://scontent.fjai2-1.fna.fbcdn.net/v/t1.0-9/116645397_831194191010495_3531731952557402213_n.jpg?_nc_cat=107&_nc_sid=09cbfe&_nc_ohc=nZXoVoFwDEQAX9dTjIR&_nc_ht=scontent.fjai2-1.fna&oh=f75e076a1d3942021dbd05b1261aea06&oe=5F5193D6" />
+					<img src="https://scontent.fjai1-2.fna.fbcdn.net/v/t31.0-8/28618752_2031890790413879_5255312442999699176_o.jpg?_nc_cat=102&_nc_sid=e3f864&_nc_ohc=UValZ3bLN2kAX-RYdsQ&_nc_ht=scontent.fjai1-2.fna&oh=a292803bfc2b687a3709fdb442925153&oe=5F51464C" />
 					<div className="card-content">
 					 <i class="material-icons">favorite</i>
 					<h6>asana</h6>
@@ -95,7 +95,7 @@ const Home=()=>{
 			<div  className="card home-card">
 				<h5>Yogify Your Life</h5>
 				<div className="card-image"></div>
-					<img src="https://scontent.fjai2-1.fna.fbcdn.net/v/t1.0-9/116645397_831194191010495_3531731952557402213_n.jpg?_nc_cat=107&_nc_sid=09cbfe&_nc_ohc=nZXoVoFwDEQAX9dTjIR&_nc_ht=scontent.fjai2-1.fna&oh=f75e076a1d3942021dbd05b1261aea06&oe=5F5193D6" />
+					<img src="https://scontent.fjai1-1.fna.fbcdn.net/v/t1.0-0/p526x296/116264206_3696039710410239_6835156450277884020_n.jpg?_nc_cat=101&_nc_sid=8bfeb9&_nc_ohc=7yS8RX41FXUAX81B3iD&_nc_ht=scontent.fjai1-1.fna&_nc_tp=6&oh=94586e87fac707ead549bde525219af7&oe=5F52CEF3" />
 					<div className="card-content">
 					 <i class="material-icons">favorite</i>
 					<h6>asana</h6>
